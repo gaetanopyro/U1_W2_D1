@@ -19,7 +19,7 @@ Esempio Il mio nome è Marco " ("Marco" è una stringa)
 */
 let number = 100;
 console.log(number);
-//Sono come i numeri che usunao per contare o fare calcoli che possono essere interi o decimali//
+//Sono come i numeri che si usano per contare o fare calcoli che possono essere interi o decimali//
 let booleans = "true";
 console.log(booleans);
 // Sono parole che esprimono una verità //
